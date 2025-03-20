@@ -2,4 +2,8 @@ asdsakdajdlksajd
 sadsajdsaljdksa
 sadkjsadasjdadaas
 ===
+<<<<<<< HEAD
 new branch Commit 01
+=======
+02 new Branch Commit 02
+>>>>>>> origin/newBranch02
